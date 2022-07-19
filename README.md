@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sebastiangolijow
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React Native
+- 👀 I’m a Full Stack Development
 - 📫 How to reach me:
 
 LinkedIn: https://www.linkedin.com/in/sebastian-golijow-41a55a1b2/
